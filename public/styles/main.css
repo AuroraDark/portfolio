@@ -5,6 +5,7 @@
 }
 body {
     background-color: #323232;
+    width: 100vw;
 }
 
 #about, #portfolio, #contact {
