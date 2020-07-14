@@ -1,0 +1,103 @@
+
+/* CONTENT ABOUT */
+.content-about {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+/* PROFILE */
+.profile {
+  background-color: white;
+  padding: 20px;
+  width: 20vw;
+  border-left: solid 10px #538dbccb;
+}
+
+.profile h1 {
+  font-size: 30px;
+}
+
+.profile h2 {
+  margin-bottom: 10px;
+}
+
+.profile h1,
+h2,
+h3 {
+  color: black;
+}
+
+.profile h3 {
+  margin-bottom: 10px;
+}
+
+.profile h1,
+h2 {
+  margin-top: 10px;
+}
+
+.blue {
+  color: #538dbccb;
+  font-weight: 400;
+}
+
+.profile img {
+  width: 100px;
+  height: 100px;
+}
+
+.profile b a {
+  font-weight: bold;
+  color: #538dbccb;
+}
+
+.profile b a:hover {
+  text-decoration: underline;
+}
+
+/* TEXT ABOUT */
+
+.text-about {
+  background-color: #434343;
+  width: 60vw;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text-about p {
+  font-size: 20px;
+}
+
+/* TECHNOLOGIES */
+
+.technologies {
+  background-color: #434343;
+  width: 80%;
+  margin-left: 10vw;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-left: solid 10px #538dbccb;
+}
+
+.technologies h1 {
+    font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.tags-tech {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.tags-tech p {
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #538dbccb;
+    border-radius: 30px;
+}
