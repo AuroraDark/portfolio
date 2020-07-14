@@ -54,3 +54,12 @@
 .card-links {
     margin-bottom: 10px;
 }
+
+/* [href="#"]{
+    pointer-events: none;
+} */
+
+.disable {
+    pointer-events: none;
+    background-color: #323232;
+}
