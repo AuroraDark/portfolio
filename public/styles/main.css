@@ -34,14 +34,14 @@ a {
     padding-bottom: 10px;
     font-weight: 400;
     font-size: 40px;
-    background-image: linear-gradient(to right, #538DBCcb, #538DBCcb);
+    background-image: linear-gradient(to right, #538dbc, #538dbc);
     background-position: bottom left;
     background-repeat: no-repeat;
     background-size: 5% 5px;
 }
 
 footer {
-    border-top: solid 10px #538dbccb ;
+    border-top: solid 10px #538dbc ;
     margin-bottom: 0px;
     margin-top: 70px ;
     width: 100vw;

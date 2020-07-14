@@ -1,0 +1,108 @@
+@media (max-width: 900px){
+
+/* HEADER */
+.div-header {
+    width: 80vw;
+    padding: none;
+    text-align: center;
+}
+
+.div-header h1 {
+    margin-left: none;
+    padding-left: none;
+    font-size: 10vw;
+}
+
+.div-header nav {
+    margin-left: none;
+    padding-left: none;
+}
+
+/* ABOUT */
+
+.content-about {
+    flex-direction: column;
+    align-items: center;
+    /* width: 80vw; */
+}
+
+.profile {
+    width: 80vw;
+}
+
+.text-about {
+    border-left: solid 10px #538dbc;
+    width: 80vw;
+}
+
+/* PORTFOLIO */
+
+/* CONTACT */
+
+.content-form  .form{
+    width: 80vw;
+}
+
+}
+
+@media (max-width: 700px) {
+
+    .title {
+        background-size: 15% 5px;
+    }
+
+    /* HEADER */
+    .div-header nav {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 30vh;
+    }
+
+    .div-header nav a {
+        width: 60vw;
+    }
+
+    .div-header h1{
+        font-size:12vw;
+    }
+
+    /* ABOUT */
+
+    .tags-tech p {
+        font-size: 17px;
+        margin: 5px;
+    }
+
+    /* PORTFOLIO */
+
+    .projects .card {
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        height: auto;
+    }
+
+    .projects .left {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 20px; 
+    }
+    
+    .projects img {
+        width: 100%;
+    }
+
+    .projects .left .card-info {
+        margin-bottom: 30px;
+    }
+
+    #social a {
+        width: 40px;
+        height: 60px;
+    }
+
+
+}

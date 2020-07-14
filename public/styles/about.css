@@ -10,7 +10,7 @@
   background-color: white;
   padding: 20px;
   width: 20vw;
-  border-left: solid 10px #538dbccb;
+  border-left: solid 10px #538dbc;
 }
 
 .profile h1 {
@@ -37,7 +37,7 @@ h2 {
 }
 
 .blue {
-  color: #538dbccb;
+  color: #538dbc;
   font-weight: 400;
 }
 
@@ -48,7 +48,7 @@ h2 {
 
 .profile b a {
   font-weight: bold;
-  color: #538dbccb;
+  color: #538dbc;
 }
 
 .profile b a:hover {
@@ -80,7 +80,7 @@ h2 {
   display: flex;
   flex-direction: column;
   padding: 20px;
-  border-left: solid 10px #538dbccb;
+  border-left: solid 10px #538dbc;
 }
 
 .technologies h1 {
@@ -98,6 +98,6 @@ h2 {
     margin: 20px;
     font-size: 20px;
     padding: 10px 20px;
-    background-color: #538dbccb;
+    background-color: #538dbc;
     border-radius: 30px;
 }

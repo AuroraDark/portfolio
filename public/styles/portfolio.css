@@ -11,7 +11,7 @@
     width: 80%;
     background-color: #434343;
     justify-content: space-between;
-    border-left: solid 10px #538dbccb;
+    border-left: solid 10px #538dbc;
     padding: 20px;
     margin-bottom: 20px;
     /* align-items: center; */
@@ -35,7 +35,7 @@
 }
 
 .projects .card a {
-    background-color: #538dbccb;
+    background-color: #538dbc;
     padding: 10px;
     width: 50%;
     text-align: center;

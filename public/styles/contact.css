@@ -7,7 +7,7 @@
   width: 40vw;
   height: 440px;
   background: #434343;
-  border-left: solid 10px #538dbccb;
+  border-left: solid 10px #538dbc;
   box-shadow: 0 0 40px -10px #000;
   padding: 20px 30px;
   max-width: calc(100vw - 40px);
@@ -45,7 +45,7 @@
   padding: 8px 12px;
   margin: 20px 0 0;
   border: none;
-  background: #538dbccb;
+  background: #538dbc;
   color: white;
   cursor: pointer;
   transition: all 0.3s;

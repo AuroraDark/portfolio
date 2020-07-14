@@ -9,8 +9,8 @@ header {
 
 header .div-header {
     background-color: #323232e8;
-    /* border: 3px solid #538DBCcb; */
-    padding: 20px 80px 20px 80px;
+    /* border: 3px solid #538dbc; */
+    padding: 20px 10vw 20px 10vw;
 }
 
 header div h1 {
@@ -19,15 +19,16 @@ header div h1 {
 
 header nav a {
     /* border: 2px solid white; */
-    border: 2px solid #538DBCcb;
-    color: #538DBCcb;
+    border: 2px solid #538dbc;
+    color: #538dbc;
     font-size: 24px;
     padding: 10px;
+    text-align: center;
     /* border-radius: 30px; */
 }
 
 header nav a:hover {
-    background-color: #538DBCcb;
+    background-color: #538dbc;
     color: white;
 }
 
