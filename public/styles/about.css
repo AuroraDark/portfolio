@@ -27,6 +27,11 @@ h3 {
   color: black;
 }
 
+.profile .github {
+  background-color: black;
+  padding: 10px;
+}
+
 .profile h3 {
   margin-bottom: 10px;
 }
